@@ -23,3 +23,20 @@ Each planet orbits at a different speed, inspired by their relative orbital peri
 - **CSS3** – for animations, 3D transforms, and styling  
 - **Keyframe Animations** – to simulate orbit and rotation  
 - **Realistic Planet Textures** – using images for visual richness
+
+---
+
+- ## ✍️ Author
+
+Created with ❤️ by **Parsa Sadegh**  
+🎓 Front-End Developer in training | 🌌 Astronomy Enthusiast  
+
+### 📫 Connect with me:
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parsadgh)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/parsa.sdgh.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parsa-sadegh-440a572a2)
+
+
+---
+
